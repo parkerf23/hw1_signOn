@@ -19,8 +19,10 @@ h1 {
 .container {
     background: #a020f0;
     border-radius: 5px;
-    margin-right: 28em;
-    margin-left: 28em;
+    padding-right: 5em;
+    padding-left: 5em;
+    margin-right: 5em;
+    margin-left: 5em;
 }
 
 h2 {
@@ -46,5 +48,5 @@ footer {
     font-weight: bold;
     font-size: 20px;
     font-family: "Times New Roman", Times, serif;
-    margin-top: 17em;
+    margin-bottom: -1em;
 }
